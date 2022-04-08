@@ -19,7 +19,7 @@
 |   Fr. Mar 25th  |         Ben          |     DNA methylation association study      |               |
 |   Fr. Apr 1st  |     Anirban          |  DeepNull models non-linear covariate effects to improve phenotypic prediction and association power   |     [paper here](https://www.nature.com/articles/s41467-021-27930-0.pdf)          |
 |   Fr. Apr 8th  |     Harold          |   Omics community detection         |               |
-|   Fr. Apr 15th  |     Yifei          |        Topic TBD    |               |
+|   Fr. Apr 15th  |     Yifei          |        Prediction, Estimation, and Attribution     |    [paper here](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1762613?journalCode=uasa20#.YlArx8hBzBW)           |
 |   Fr. Apr 22nd  |  Hugo             |  Feed efficiency and FTIR milk-spectra          |               |
 |   Fr. Apr 29th  |      Alexa         |            |               |
 
